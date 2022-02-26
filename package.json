@@ -1,0 +1,29 @@
+{
+  "name": "non-fungible-token-",
+  "version": "1.0.0",
+  "description": "nft",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Opssy/non-fungible-token-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Opssy/non-fungible-token-/issues"
+  },
+  "homepage": "https://github.com/Opssy/non-fungible-token-#readme",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.5",
+    "ethers": "^5.0.0",
+    "hardhat": "^2.8.4"
+  },
+  "dependencies": {
+    "@alch/alchemy-web3": "^1.2.4",
+    "@openzeppelin/contracts": "^4.5.0",
+    "dotenv": "^16.0.0"
+  }
+}
